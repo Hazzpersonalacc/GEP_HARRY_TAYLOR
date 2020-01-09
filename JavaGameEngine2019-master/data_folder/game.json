@@ -1,0 +1,18 @@
+{
+  "Level 1": [{
+    "w": 50,
+    "x": 275,
+    "h": 20,
+    "name": "My Sprite",
+    "y": 234,
+    "type": "Platform"
+  }],
+  "player": [{
+    "w": 20,
+    "x": 300,
+    "h": 20,
+    "name": "My Sprite",
+    "y": 100,
+    "type": "Player"
+  }]
+}
